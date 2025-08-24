@@ -14,7 +14,7 @@ A fitness-focused Flutter application designed to help you stay healthy and acti
 
 | Home | Meal Planner | Exercise | Sleep | Water |
 |------|--------------|----------|-------|-------|
-| ![Home](images/home.png) | ![Meal Planner](images/meal.png) | ![Exercise](images/exercise.png) | ![Sleep](images/sleep.png) | ![Water](images/water.png) |
+| ![Home](images/WhatsApp Image 2025-07-24 at 19.11.46_d903704b.jpg) | ![Food Option](images/WhatsApp Image 2025-07-24 at 19.11.47_1f0c9cf8.jpg) | ![Food Option](images/WhatsApp Image 2025-07-24 at 19.11.47_2a415955.jpg) | ![Search bar](images/WhatsApp Image 2025-07-24 at 19.11.47_b65b58b7.jpg) | ![Meal Planner](images/WhatsApp Image 2025-07-24 at 19.11.48_61626168.jpg) | ![Chat bot](images/WhatsApp Image 2025-07-24 at 19.11.48_8af13c5b.jpg) |                                               ![Exercise](images/WhatsApp Image 2025-07-24 at 19.11.49_9ea3751d.jpg) | [Steps Counter] (images/WhatsApp Image 2025-07-24 at 19.11.49_d3258b6c.jpg) |
 
 ## Getting Started
 
